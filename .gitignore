@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+venv/
+ENV/
+chroma_db/
+uploads/
+temp_audio/
+*.log
+.pytest_cache/
